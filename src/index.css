@@ -1,6 +1,6 @@
 :root {
   background-color: white;
-  background: url('bistecoin-background.jpg') no-repeat center;
+  background: url('./assets/bistecoin-background.jpg') no-repeat center;
   background-size: cover;
 }
 
